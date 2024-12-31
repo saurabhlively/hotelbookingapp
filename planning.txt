@@ -1,0 +1,10 @@
+1)User can see list of hotel
+2)User can book a hotel
+3)User can get a reservation ticket
+4)User payment mode
+
+Classes:
+User
+Hotel
+Reservation/Ticket
+Payment
